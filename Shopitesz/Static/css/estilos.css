@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+    background-image: url("C:/Users/Cynthia/Documents/Github/Verano_Shopitesz_Eq8/Shopitesz/Static/img/fondo.png");
+    -moz-border-image: auto;
+}
+
+.textoEncabezado {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    height: 40px;
+    text-align: center;
+    padding: 25px;
+    display: inline;
+}
+
+header {
+    background-color: chocolate;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px;
+}
+
+fieldset {
+    width: 30%;
+    background-color: coral;
+    opacity: 0.8;
+    border-radius: 10px 10px;
+}
+
+button {
+    background-color: darkgray;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
